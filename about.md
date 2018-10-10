@@ -1,30 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
+Hi
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I would like to think of myself as a software developer with strong inclinations towards building things that follow data-driven principles and are UX centric (like this website). I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) in order to pursue graduate studies in Computer Science. I was part of the Data Science Lab at RateGain for the entirety of my time there. I, along with the team worked on problems ranging from price optimizations, sentiment analysis to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](http://www.jamiahamdard.ac.in:81) in New Delhi from where I got my bachelors degree in Computer Science.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I love working on tools, infrastructure and working on scaling applications from the ground up. Occasional [Gopher](https://golang.org) and a full time [Pythonista](https://www.python.org) among other things. When not writing code, I can be found playing football (soccer if you may), watching La Liga (Hala Madrid!), backpacking across the Indian subcontinent and outside of it once in a while. Have a weak spot for good music, standup comedy and theatre.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![Here I am at the RateGain HQ in Noida.](/assets/1.jpg)

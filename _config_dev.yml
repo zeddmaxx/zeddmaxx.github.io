@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 title:            Azhar
-tagline:          ''
+tagline:          'Just my 2 cents'
 url:              http://localhost:4000
 shorturl:
 
@@ -30,11 +30,11 @@ github:
 pages_list:
   About: '/about/'
   Archive: '/archive/'
-  Feed: '/atom.xml'
+  Projects: '/projects/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-gist

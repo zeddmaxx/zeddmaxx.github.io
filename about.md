@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: About Me
 ---
 # Hi. I’m Azhar.
 
@@ -10,4 +10,4 @@ I've recently stepped down from my position as Data Engineer at [RateGain](https
 
 I love working on tools, infrastructure and working on scaling applications from the ground up. Occasional [Gopher](https://golang.org) and a full time [Pythonista](https://www.python.org) among other things. When not writing code, I can be found playing football (soccer if you may), watching La Liga (Hala Madrid!), backpacking across the Indian subcontinent and outside of it once in a while. I'm also an avid quizzer and occasionally brag about some trivia that no one seems to know about. Have a weak spot for good music, standup comedy and theatre.
 
-![Here I am at the RateGain HQ in Noida.](/assets/1.jpg)
+![At RateGain HQ in Noida.](/assets/1.jpg)

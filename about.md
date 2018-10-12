@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: Hi. I’m Azhar.
 ---
-# Hi. I’m Azhar.
 
-Hi, my name is Azhar Khan and I would like to describe myself as an individual possessing a fusion of skills in software development, devops and data science, coupled with strong inclination towards building things that are data-driven and UX centric (like this website).
+
+Hi, my name is Azhar Khan and I would like to describe myself as an individual possessing a fusion of skills in Software Engineering, DevOps and Data Science, coupled with strong inclination towards building things that are data-driven and UX centric (like this website).
 
 I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) in order to pursue graduate studies in Computer Science. I was part of the Data Science Lab at RateGain for the entirety of my time there. I, along with the team worked on a diverse set of problems ranging from price optimizations, sentiment analysis to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](http://www.jamiahamdard.ac.in:81) in New Delhi from where I got my bachelors degree in Computer Science.
 

@@ -4,7 +4,6 @@ kramdown:
   extensions: ["tables"]
 
 highlighter:         rouge
-
 # Permalinks
 permalink:        pretty
 
@@ -31,6 +30,7 @@ pages_list:
   About: '/about/'
   Archive: '/archive/'
   Projects: '/projects/'
+  Resumé: '/resume/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages

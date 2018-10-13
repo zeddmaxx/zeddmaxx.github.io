@@ -4,15 +4,15 @@ title: Azhar Khan
 ---
 
 <div id="webaddress">
-  <a href="https://azharkhan.in">azharkhan.in</a>
-| <a href="https://www.linkedin.com/in/azhar93/">LinkedIn</a>
+
+  <a href="https://www.linkedin.com/in/azhar93/">LinkedIn</a>
 | <a href="https://github.com/azkh93">GitHub</a>
 | <a href="https://twitter.com/azhar937">Twitter</a>
 </div>
 
 ### Summary
 
-Data Science enthusiast with keen interest in employing Predictive Analytics and Data Science tools in real business scenarios in order to develop analytic solutions that address data related problems and further lead to improvements in decision making, implementation strategy and performance.
+Data Science enthusiast with keen interest in employing Predictive analytics and Data Science tools in real business scenarios in order to develop solutions that address data related problems and further lead to improvement in decision making, implementation strategy and performance.
 
 ### Work Experience
 

@@ -12,7 +12,7 @@ title: Azhar Khan
 
 ### Summary
 
-Data Science enthusiast with keen interest in employing Predictive analytics and Data Science tools in real business scenarios in order to develop solutions that address data related problems and further lead to improvement in decision making, implementation strategy and performance.
+Data science enthusiast with keen interest in employing predictive analytics and data science tools in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy and performance.
 
 ### Work Experience
 
@@ -26,7 +26,7 @@ __Data Engineer at RateGain, Noida.__
 `2016-2017`
 __Analyst at RateGain, Noida.__
 - Curated health dashboards for measuring sufficiency and accuracy of client reports.
-- Consolidated, validated and cleansed data from a vast range of sources – from applications and databases to files and Web services.
+- Consolidated, validated and cleansed data from a vast range of sources – from applications and databases to files and web services.
 
 ### Education
 
@@ -40,7 +40,7 @@ Artificial Intelligence, Compiler Design, Computer Organization & Architechture,
 
 ### Honors & Achievements
 
-- Finished runners-up in the zonal "TATA Crucible" business quiz.
+- Finished runner-up in the zonal TATA Crucible business quiz.
 - Among the Top 6% (94 Percentile) in National Industry Targeted Aptitude Test (NITAT 2015).
 - Served as Joint Secretary on the university IEEE student council (2014-2016).
 

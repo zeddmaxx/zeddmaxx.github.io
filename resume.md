@@ -19,7 +19,7 @@ Data science enthusiast with keen interest in employing predictive analytics and
 `2017-2018`
 __Data Engineer at RateGain, Noida.__
 - Built scalable and fault tolerant data APIs to power products and business services.
-- Developed & implemented data pipelines/workflows to enhance the performance of our existing product suite.
+- Developed & implemented data pipelines/workflows to enhance the performance of internal product suite.
 - Tuned & improved the core sentiment logic of the in-house analytic engine.
 - Used data mining techniques along with NLP & machine learning algorithms to create decision-based systems for clients.
 
@@ -32,6 +32,8 @@ __Analyst at RateGain, Noida.__
 
 `2012-2016`
 __Jamia Hamdard University, New Delhi.__
+
+**Bachelors in Computer Science**
 
 *Coursework* - Discrete Math, Algorithmic complexity, Computer Networks, Data Structures, Theory of Computation, Linear Algebra,
 Artificial Intelligence, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented programming, Probability, Operating System
@@ -47,13 +49,15 @@ Artificial Intelligence, Compiler Design, Computer Organization & Architechture,
 ### Computing stack
 * Python - ipython,scikit-learn, pytorch, tensor-flow, numpy, seaborne, pandas, lxml, NLTK, requests, sqlite3.
 * R - dplyr, ggplot2, knitr, shiny.
-* Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter.
+* Web Development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter.
 * Strong experience with REST APIs.
-* Linux - Git, bash/zsh, sge/torque/pbs, CI(travis/wercker), vagrant, ansible.
+* Version Control - Git
 * Cloud - AWS, Google
 * Containers - docker, kubernetes, ECS
-* ETL - Luigi, Airflow
+* ETL - Luigi, Airflow, Alteryx
+* Business Intelligence - Tableau
 * Backends - Elasticsearch, sqlite
-* Familiar with agile and test-driven development. CI/CD/DevOps
+* Operating System - MacOS, Linux, Windows
+* Familiar with agile and test-driven development. CI/CD/DevOps.
 
 ![]({{ site.url }}/assets/work.png)

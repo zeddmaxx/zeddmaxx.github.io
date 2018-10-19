@@ -10,8 +10,6 @@ A list of projects that I have contributed to or have made during my undergradua
 - [Twitter Sentiment Analysis](https://github.com/azkh93/Twitter-Sentiment-Analysis)
 - [Spam Classifier](https://github.com/azkh93/Spam-Ham-Classifier)
 - [Packet-Sniffer](https://github.com/azkh93/Packet-Sniffer)
+- [Web Crawler](https://github.com/azkh93/Web-Crawler)
 - [Chat Client](https://github.com/azkh93/Chat-Client)
 - [Shell Shocker](https://github.com/azkh93/Shell-Shocker)
-- [Web Crawler](https://github.com/azkh93/Web-Crawler)
-
-This list ***won't*** stop updating.

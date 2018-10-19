@@ -57,7 +57,7 @@ Artificial Intelligence, Compiler Design, Computer Organization & Architechture,
 * ETL - Luigi, Airflow, Alteryx
 * Business Intelligence - Tableau
 * Backends - Elasticsearch, sqlite
-* Operating System - MacOS, Linux, Windows
+* Operating System - macOS, Linux, Windows
 * Familiar with agile and test-driven development. CI/CD/DevOps.
 
 ![]({{ site.url }}/assets/work.png)

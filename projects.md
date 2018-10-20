@@ -1,9 +1,14 @@
 ---
 layout: page
-title: A few projects that i'm proud of...
+title: Projects
+sidebar_link: true
 ---
+<hr>
+
+
 
 A list of projects that I have contributed to or have made during my undergraduate days.
+
 
 - [Movie Recommender System](https://github.com/azkh93/Movie-Recommender-System)
 - [Stock Price Prediction](https://github.com/azkh93/Stock-Price-Prediction)

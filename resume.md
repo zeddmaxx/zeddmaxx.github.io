@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Azhar Khan
+title: Resumé
+sidebar_link: true
 ---
 
-<div id="webaddress">
-
-  <a href="https://www.linkedin.com/in/azhar93/">LinkedIn</a>
-| <a href="https://github.com/azkh93">GitHub</a>
-| <a href="https://twitter.com/azhar937">Twitter</a>
-</div>
+<hr>
 
 ### Summary
 
-Data science enthusiast with keen interest in employing predictive analytics and data science tools in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy and performance.
+Data science enthusiast with keen interest in employing predictive analytics & data science tools in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy & performance.
 
 ### Work Experience
 
@@ -49,7 +45,7 @@ Artificial Intelligence, Compiler Design, Computer Organization & Architechture,
 ### Computing stack
 * Python - ipython,scikit-learn, pytorch, tensor-flow, numpy, seaborne, pandas, lxml, NLTK, requests, sqlite3.
 * R - dplyr, ggplot2, knitr, shiny.
-* Web Development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter.
+* Web Development - working knowledge of HTML/CSS/JS, D3.js, crossfilter.
 * Strong experience with REST APIs.
 * Version Control - Git
 * Cloud - AWS, Google

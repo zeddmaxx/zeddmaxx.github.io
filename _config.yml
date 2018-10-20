@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Azhar Khan
 tagline:          'Just my 2 cents'
 description:      "Data. Code. Design"
-url:              http://localhost:4000
+url:              https://azharkhan.in
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -22,6 +22,10 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+github:
+  repo:           https://github.com/azkh93/azkh93.github.io
+
+  
 plugins:
   - jekyll-feed
   - jekyll-gist

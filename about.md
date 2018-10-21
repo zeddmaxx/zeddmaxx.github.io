@@ -5,7 +5,9 @@ sidebar_link: true
 ---
 <hr>
 
-**Hi. I’m Azhar.** I would like to describe myself as an individual possessing a fusion of skills in Software Engineering, DevOps and Data Science, coupled with strong inclination towards building things that are data-driven and UX centric (like this website).
+## Hi. I’m Azhar.
+
+I would like to describe myself as an individual possessing a fusion of skills in Software Engineering, DevOps and Data Science, coupled with strong inclination towards building things that are data-driven and UX centric (like this website).
 
 I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) in order to pursue graduate studies. I was part of the Data Science Lab at RateGain for the entirety of my time there. I, along with the team worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](http://www.jamiahamdard.ac.in:81) in New Delhi from where I got my bachelors degree in Computer Science.
 

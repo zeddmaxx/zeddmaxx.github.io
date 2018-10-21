@@ -4,6 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Azhar Khan
+email:            azhar932@icloud.com
 tagline:          'Just my 2 cents'
 description:      "Data. Code. Design"
 url:              https://azharkhan.in
@@ -25,7 +26,11 @@ paginate:         5
 github:
   repo:           https://github.com/azkh93/azkh93.github.io
 
-  
+disqus:
+  shortname: azharkhan
+
+google_analytics: UA-127874396-1
+
 plugins:
   - jekyll-feed
   - jekyll-gist

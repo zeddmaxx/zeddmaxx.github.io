@@ -2,8 +2,10 @@
 markdown:         kramdown
 highlighter:      rouge
 
+
 # Setup
 title:            Azhar Khan
+email:            azhar932@icloud.com
 tagline:          'Just my 2 cents'
 description:      "Data. Code. Design"
 url:              http://localhost:4000
@@ -19,11 +21,16 @@ author:
   url:            https://twitter.com/azhar937
 
 paginate:         5
-# paginate_path:    '/page:num'
+#paginate_path:    '/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 github:
   repo:           https://github.com/azkh93/azkh93.github.io
+
+disqus:
+  shortname: azharkhan
+
+google_analytics: UA-127874396-1
 
 plugins:
   - jekyll-feed
@@ -32,7 +39,7 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+#sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.

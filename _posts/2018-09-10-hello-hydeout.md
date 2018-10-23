@@ -78,6 +78,3 @@ of the body (e.g. for custom JS) by defining your own
 
 * For Google Analytics support, define a `google_analytics` variable with
   your property ID in your config file.
-
-There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!

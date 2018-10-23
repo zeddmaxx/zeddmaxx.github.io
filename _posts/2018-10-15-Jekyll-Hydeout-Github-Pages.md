@@ -4,7 +4,7 @@ title: Jekyll + Hydeout + Github Pages
 ---
 
 I recently migrated this website from [Wordpress](http://wordpress.com) to [Github pages](http://pages.github.com/)
-using [Jekyll](http://jekyllrb.com) and [Hydeout](https://github.com/fongandrew/hydeout). I am really happy with this transition. Over time, I grew to really dislike how heavy-weight Wordpress is. I dislike how WYSIWYG editors make it really hard to see what HTML is being generated and tend to bloat the code that is produced. I found the Wordpress plugin system so confusing that I was afraid to try to customize the layout of anything.
+using [Jekyll](http://jekyllrb.com) and [Hydeout](https://github.com/fongandrew/hydeout). I'm really happy with this transition. Over time, I grew to really dislike how heavy-weight Wordpress is. I dislike how WYSIWYG editors make it really hard to see what HTML is being generated and tend to bloat the code that is produced. I found the Wordpress plugin system so confusing that I was afraid to try to customize the layout of anything.
 
 The process of backing up Wordpress is a huge pain. I was annoyed constantly installing security updates. I hated having to keep an opaque database in order to keep all of my content. And whenever I went in to edit my website, I was always afraid that I would fat-finger change something and have no idea what happened.
 
@@ -129,7 +129,7 @@ For Google Analytics support, define a `google_analytics` variable with your tra
 
 Once I got my blog up to speed on GitHub with the URL [azkh93.github.io](https://azkh93.github.io), it was easy to link my personal domain [azharkhan.in](https://azharkhan.in) to it. I use GoDaddy to host my domain, so I followed the instructions [here](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b).
 
-I hope this blog will help you get up to speed quickly with GitHub Pages, Jekyll, and Hydeout.
+I hope this blog post will help you get up to speed quickly with GitHub Pages, Jekyll, and Hydeout.
 If you have any questions about my implementation, you can view my entire website on [GitHub](https://github.com/azkh93/azkh93.github.io) or leave a question below.
 
 ## Further Reading

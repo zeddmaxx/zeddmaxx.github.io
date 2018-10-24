@@ -132,10 +132,6 @@ Once I got my blog up to speed on GitHub with the URL [azkh93.github.io](https:/
 I hope this blog post will help you get up to speed quickly with GitHub Pages, Jekyll, and Hydeout.
 If you have any questions about my implementation, you can view my entire website on [GitHub](https://github.com/azkh93/azkh93.github.io) or leave a question below.
 
-## Further Reading
-
-
-
 ## More Links
 
 Here are some links which helped me along the way:

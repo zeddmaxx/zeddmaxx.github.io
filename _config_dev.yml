@@ -30,6 +30,8 @@ github:
 disqus:
   shortname: azharkhan
 
+google_analytics: UA-127874396-1
+
 
 plugins:
   - jekyll-feed

@@ -8,7 +8,7 @@ sidebar_link: true
 
 ### Summary
 
-Data science and software enthusiast with keen interest in employing predictive analytics in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy & performance.
+Data science and software enthusiast with keen interest in employing predictive analytics in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy, & performance.
 
 ### Work Experience
 

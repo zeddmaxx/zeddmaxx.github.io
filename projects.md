@@ -14,7 +14,7 @@ A selected list of projects that I have contributed to or have made during my un
 
 - [Stock Price Prediction](https://github.com/azkh93/Stock-Price-Prediction) - Using Keras machine learning library to train the network on a stock price dataset (from Google Finance) in order to predict a future price.
 
-- [Twitter Sentiment Analysis](https://github.com/azkh93/Twitter-Sentiment-Analysis) - Real-time streaming sentiment analysis tool built with [Dash](https://plot.ly/products/dash/).
+- [Twitter Sentiment Analysis](https://github.com/azkh93/Twitter-Sentiment-Analysis) - Real-time streaming sentiment analysis tool built using [Dash](https://plot.ly/products/dash/).
 - [Spam Classifier](https://github.com/azkh93/Spam-Ham-Classifier) - General purpose spam classifier implemented using Naive Bayes probability approach.
 
 - [Packet-Sniffer](https://github.com/azkh93/Packet-Sniffer) - A program to get access to the data flowing through your router/ethernet.

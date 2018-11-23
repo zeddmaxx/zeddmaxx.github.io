@@ -29,11 +29,13 @@ __Analyst at RateGain, Noida.__
 `2012-2016`
 __Jamia Hamdard University, New Delhi.__
 
-**Bachelors in Computer Science**
+**Bachelor's in Computer Science**
 
 *Coursework* - Discrete Math, Algorithmic complexity, Computer Networks, Data Structures, Theory of Computation, Linear Algebra,
 Artificial Intelligence, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented programming, Probability, Operating System
 
+`1999-2011`
+__Delhi Public School, Mathura Road, New Delhi.__
 
 
 ### Honors & Achievements

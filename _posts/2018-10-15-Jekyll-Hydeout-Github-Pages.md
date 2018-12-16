@@ -4,7 +4,7 @@ title: Jekyll + Hydeout + Github Pages
 ---
 
 I recently migrated this website from [Wordpress](http://wordpress.com) to [Github pages](http://pages.github.com/)
-using [Jekyll](http://jekyllrb.com) and [Hydeout](https://github.com/fongandrew/hydeout). I'm really happy with this transition. Over time, I grew to really dislike how heavy-weight Wordpress is. I dislike how WYSIWYG editors make it really hard to see what HTML is being generated and tend to bloat the code that is produced. I found the Wordpress plugin system so confusing that I was afraid to try to customize the layout of anything.
+using [Jekyll](http://jekyllrb.com) and [Hydeout](https://github.com/fongandrew/hydeout). Over time, I grew to really dislike how heavy-weight Wordpress is. The WYSIWYG editors make it really hard to see what HTML is being generated and tend to bloat the code that is produced. I found the Wordpress plugin system so confusing that I was afraid to try to customize the layout of anything.
 
 The process of backing up Wordpress is a huge pain. I was annoyed constantly installing security updates. I hated having to keep an opaque database in order to keep all of my content. And whenever I went in to edit my website, I was always afraid that I would fat-finger change something and have no idea what happened.
 

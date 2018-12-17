@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Azhar Khan
-email:            azhar932@icloud.com
-tagline:          'Just my 2 cents'
+title:            Zoya Khan
+email:            cutezoe1996@gmail.com
+tagline:          'Stronger Better Faster'
 description:      "Data. Code. Design"
 url:              https://azharkhan.in
 baseurl:
@@ -16,20 +16,16 @@ baseurl:
                   # sidebar_blog_link below.
 
 author:
-  name:           'Azhar Khan'
-  url:            https://twitter.com/azhar937
+  name:           'Zoya Khan'
+  url:            https://twitter.com/zeddmaxx
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 github:
-  repo:           https://github.com/azkh93/azkh93.github.io
+  repo:           https://github.com/zeddmaxx/zeddmaxx.github.io
 
-disqus:
-  shortname: azharkhan
-
-google_analytics: UA-127874396-1
 
 plugins:
   - jekyll-feed

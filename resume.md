@@ -8,54 +8,48 @@ sidebar_link: true
 
 ### Summary
 
-Data science and software enthusiast with keen interest in employing predictive analytics in real business scenarios to develop industrial grade solutions that address data related problems and further lead to improvement in decision making, implementation strategy, & performance.
+Hey! I'm a senior undergrad @Indira Gandhi Delhi Technical University for Women pursuing a Bachelors in Information Technology. I'm extremely passionate about Computer Science and Machine Learning in particular. I'm constantly looking to broaden and diversify my skill set and absolutely love to learn new technologies!
+My aim in life is to continuously learn and grow and I strive to make each day count! 
+I'm also a massive Arsenal fan!
 
-### Work Experience
+### Internship Experience
 
-`2017-2018`
-__Data Engineer at RateGain, Noida.__
-- Built scalable and fault tolerant data APIs to power products and business services.
-- Developed & implemented data pipelines/workflows to enhance the performance of internal product suite.
-- Tuned & improved the core sentiment logic of the in-house analytic engine.
-- Used data mining techniques along with NLP & machine learning algorithms to create decision-based systems for clients.
+`June-July-2018`
+__SDE Intern @ SAP Labs, Gurgaon__
 
-`2016-2017`
-__Analyst at RateGain, Noida.__
-- Curated health dashboards for measuring sufficiency and accuracy of client reports.
-- Consolidated, validated and cleansed data from a vast range of sources – from applications and databases to files and web services.
+`June-Aug-2017`
+__Research Intern @IIIT-D__
+
+`June-July-2016`
+__Intern @Delhi Metro Rail Corporation__
+
 
 ### Education
 
-`2012-2016`
-__Jamia Hamdard University, New Delhi.__
+`2015-2019`
+__Indira Gandhi Delhi Technical University for Women, New Delhi.__
 
-**Bachelor's in Computer Science**
+**Bachelor's in Information Technology**
 
-*Coursework* - Discrete Math, Algorithmic complexity, Computer Networks, Data Structures, Theory of Computation, Linear Algebra,
-Artificial Intelligence, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented programming, Probability, Operating System
+*Coursework* - Machine Learning and Pattern Recognition, Atrificial Intelligence, Discrete Math, Analysis and Design of Algorithms, Computer Networks, Data Structures, Theory of Computation, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented Programming, Operating System and many more.
 
-`1999-2011`
-__Delhi Public School, Mathura Road, New Delhi.__
+`2001-2015`
+__Mater Dei School, New Delhi.__
+
+### Online Courses
+- Neural Networks and Deep Learning (2018) (Deeplearning.ai)
+- Social and Economic Networks: Models and Analysis (2017) (Stanford University)
+- Applied Social Network Analysis in Python (2017) (University of Michigan)
+- Introduction to Big Data (2016) (University of California, San Diego)
+- The Data Scientist’s Toolbox (2016) (Johns Hopkins University)
 
 
 ### Honors & Achievements
+- Academic Achievement - Received a cash prize of INR 10,000 for achieving CGPA 10 in my senior secondary examination.
+- Served on the Executive Committee Secretary on the university IEEE student council.
 
-- Finished runner-up in the zonal TATA Crucible business quiz.
-- Among the Top 6% (94 Percentile) in National Industry Targeted Aptitude Test (NITAT 2015).
-- Served as Joint Secretary on the university IEEE student council (2014-2016).
-
-### Computing stack
-* Python - ipython,scikit-learn, pytorch, tensor-flow, numpy, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-* R - dplyr, ggplot2, knitr, shiny.
-* Web Development - working knowledge of HTML/CSS/JS, D3.js, crossfilter.
+### Technologies
+* Python - keras, tensor-flow, scikit-learn, numpy, pandas, nltk, beautifulsoup, tweepy.
+* Web Development - HTML/CSS/JS, D3.js.
 * Strong experience with REST APIs.
 * Version Control - Git
-* Cloud - AWS, Google
-* Containers - docker, kubernetes, ECS
-* ETL - Luigi, Airflow, Alteryx
-* Business Intelligence - Tableau
-* Backends - Elasticsearch, sqlite
-* Operating System - macOS, Linux, Windows
-* Familiar with agile and test-driven development. CI/CD/DevOps.
-
-![]({{ site.url }}/assets/work.png)

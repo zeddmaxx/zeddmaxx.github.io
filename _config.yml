@@ -26,6 +26,8 @@ paginate:         5
 github:
   repo:           https://github.com/zeddmaxx/zeddmaxx.github.io
 
+google_analytics: UA-131116358-1
+
 
 plugins:
   - jekyll-feed

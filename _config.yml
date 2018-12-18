@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hi! I'm Zoya Khan
+title:            Zoya Khan
 email:            cutezoe1996@gmail.com
 tagline:          'Stronger Better Faster'
 description:      "ML Enthusiast"
-url:              https://azharkhan.in
+url:              https://zeddmaxx.github.io/
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:
                   # sidebar_blog_link below.
 
 author:
-  name:           'Zoya Khan'
+  name:           'Zoya Khanxxx'
   url:            https://twitter.com/zeddmaxx
 
 paginate:         5

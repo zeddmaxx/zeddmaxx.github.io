@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Zoya Khan
+title:            Hi! I'm Zoya!
 email:            cutezoe1996@gmail.com
 tagline:          'Stronger Better Faster'
 description:      "ML Enthusiast"
@@ -16,7 +16,7 @@ baseurl:
                   # sidebar_blog_link below.
 
 author:
-  name:           'Zoya Khanxxx'
+  name:           'Zoya Khan'
   url:            https://twitter.com/zeddmaxx
 
 paginate:         5

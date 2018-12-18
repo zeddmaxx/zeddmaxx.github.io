@@ -19,18 +19,13 @@ Brilliant support for Bipartite Graph : Networkx provides brilliant support of f
   
 from networkx.algorithms import bipartite
 
-
 X = nx.DiGraph()
-
 
 X.add_nodes_from(<list-of-nodes-Type-1>, bipartite = 0)
   
-  
 X.add_nodes_from(<list-of-nodes-Type-2, bipartite = 1)
 
-
 """ If you don’t believe that the above 4 lines created a bipartite graph see for yourself """
-
 
 print(bipartite.is_bipartite(X)) </code>
 

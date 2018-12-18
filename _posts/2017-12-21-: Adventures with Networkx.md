@@ -16,18 +16,17 @@ Brilliant support for Bipartite Graph : Networkx provides brilliant support of f
 
 <code> import networkx as nx
   
+<code> from networkx.algorithms import bipartite
   
-from networkx.algorithms import bipartite
+<code> X = nx.DiGraph()
 
-X = nx.DiGraph()
-
-X.add_nodes_from(<list-of-nodes-Type-1>, bipartite = 0)
+<code> X.add_nodes_from(<list-of-nodes-Type-1>, bipartite = 0)
   
-X.add_nodes_from(<list-of-nodes-Type-2, bipartite = 1)
+<code> X.add_nodes_from(<list-of-nodes-Type-2, bipartite = 1)
 
-""" If you don’t believe that the above 4 lines created a bipartite graph see for yourself """
+<code> """ If you don’t believe that the above 4 lines created a bipartite graph see for yourself """
 
-print(bipartite.is_bipartite(X)) </code>
+<code> print(bipartite.is_bipartite(X)) 
 
 
 Haha so now, all you need to do is add edges and visualize this graph using Matplotlib or any other great plotting library.

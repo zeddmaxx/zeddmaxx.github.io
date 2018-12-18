@@ -12,14 +12,30 @@ I am no expert but here are some of the things that wowed me the first time I en
 
 Brilliant support for Bipartite Graph : Networkx provides brilliant support of functions and iterators for Bipartite graphs. Even though there is no separate class for Bipartite graphs, but you could try out the following and witness the magic unfold :
 <code>
+
+
 import networkx as nx
+  
+  
 from networkx.algorithms import bipartite
+
+
 X = nx.DiGraph()
+
+
 X.add_nodes_from(<list-of-nodes-Type-1>, bipartite = 0)
+  
+  
 X.add_nodes_from(<list-of-nodes-Type-2, bipartite = 1)
+
+
 """ If you don’t believe that the above 4 lines created a bipartite graph see for yourself """
+
+
 print(bipartite.is_bipartite(X))
-                                        </code>
+
+
+</code>
 Haha so now, all you need to do is add edges and visualize this graph using Matplotlib or any other great plotting library.
 
 Random Graphs : If you’ve heard about the Preferential Attachment Model and the Small World Theory, you’ll know what I’m talking about. Networkx allows us to work with random models like Erdos Renyi, Barabasi Albert, Watts-Strogatz and many more. So, its great if you’d like to experiment with random graphs and models.

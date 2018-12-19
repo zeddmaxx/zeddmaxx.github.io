@@ -7,7 +7,7 @@ sidebar_link: true
 
 ## Hi. I’m Zoya!
 I'm a senior at Indira Gandhi Delhi Technical University for Women, New Delhi, pursuing a Bachelors in Technology with a major in Information Technology. 
-I absolutely adore Python and am currently fascinated by Neural Nets. I chill by reading mystery books and binging TV-Series! :P
+I absolutely adore Python and am currently fascinated by Neural Nets. My definition of chilling is reading a John Grisham on a nondescript, mundane weekend and yeah, binging TV-Series! :P
 
 
 That's all for now!

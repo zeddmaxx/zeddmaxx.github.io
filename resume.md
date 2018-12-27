@@ -6,6 +6,9 @@ sidebar_link: true
 
 <hr>
 
+### PDF
+The pdf of my Resume is present [here](/assets/ZoyaKhanIndiraGandhiDelhiTechnicalUniversityForWomen.pdf)
+
 ### Summary
 
 Hey! I'm a senior undergrad @Indira Gandhi Delhi Technical University for Women pursuing a Bachelors in Information Technology. I'm extremely passionate about Computer Science and Machine Learning in particular. I'm constantly looking to broaden and diversify my skill set and absolutely love to learn new technologies!

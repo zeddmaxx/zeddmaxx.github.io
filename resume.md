@@ -7,7 +7,7 @@ sidebar_link: true
 <hr>
 
 ### PDF
-The PDF version is present [here].(/assets/ZoyaKhanIndiraGandhiDelhiTechnicalUniversityForWomen.pdf)
+The PDF version is present [here](/assets/ZoyaKhanIndiraGandhiDelhiTechnicalUniversityForWomen.pdf).
 
 ### Summary
 

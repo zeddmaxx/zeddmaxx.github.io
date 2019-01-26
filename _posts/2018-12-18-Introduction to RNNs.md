@@ -33,13 +33,13 @@ There are three major gates which govern the functioning of the Recurrent Neural
 The key things to keep in mind for an LSTM are, the equations that govern it:
 
 
-![1.png]
-![2.png]
-![3.png]
-![4.png]
-![5.png]
-![6.png]
-![7.png]
+![1.png](../assets/css/1.png)
+![2.png](../assets/css/2.png)
+![3.png](../assets/css/3.png)
+![4.png](../assets/css/4.png)
+![5.png](../assets/css/5.png)
+![6.png](../assets/css/6.png)
+
 
 We have 3 major gates:
 * Forget Gate: This gate outputs a 0 or 1 value (sigmoid activatio) to indicate whether we have to forget the past state and re-initialize the cell state c.

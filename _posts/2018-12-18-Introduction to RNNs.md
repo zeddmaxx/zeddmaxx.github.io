@@ -50,3 +50,5 @@ I used keras for building my model and that's what I'd suggest to you too! I'll 
 
 Gracias!
 
+P.S.: Incase you're wondering, yes, I did write those equations painstakingly in latex and then took a screenshot of each! Phew! :P
+

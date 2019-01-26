@@ -46,5 +46,7 @@ We have 3 major gates:
 * Update Gate: This gate outputs a 0 or 1 value (sigmoid activation) to indicate whether we have to update the cell state to the new state.
 * Output Gate: This is the output gate, it outputs the cell state after doing some complex math on it and carries it to the next state.
   
-I used keras for building my model and that's what I'd suggest
+I used keras for building my model and that's what I'd suggest to you too! I'll keep updating this with more on RNNs & LSTMs!
+
+Gracias!
 

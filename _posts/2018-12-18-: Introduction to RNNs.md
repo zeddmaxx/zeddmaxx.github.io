@@ -2,15 +2,15 @@
 layout: post
 title: Introduction to RNNs
 ---
-Heyy ya guys! Sorry it took me so long to write this post, was hung up with some courses and deadlines. Anyway, lot's of time on hand now! So I'm gonna resume BLOGGGGING-----GGGGGGGGGGGGG!!!
+Heyy ya guys! Sorry it took me so long to write this post, was hung up with some courses and deadlines. Anyway, lot's of time on hand now! So I'm gonna resume BLOGGGGING!!
 
 Excuse the above. Sorry. Lol. So, let's get to it!!
 Truth be told, I started reading up about Recurrent Neural Networks when I was faced by the daunting task of actually implementing one for my minor project in college. 
 I was like yeah, RNN, I know! Good old chap, hear his name all the time! Umm, but pray what does it do in reality? Haha, yeah I was clueless.
 
-In order to equip myself, I enrolled in the Sequential Models course offered by deeplearning.ai on Coursera! Well, that is one awesome course! I'm totally serious though! Thinking you know something and actually knowing something is actually a very different thing! So I'd suggest you either enroll to the course, audit the content or get yourself a certificate or I guess you'll find the videos on YouTube too!
+In order to equip myself, I enrolled in the Sequential Models course offered by deeplearning.ai on Coursera! Well, that is one awesome course! I'm totally serious though! Thinking you know something and actually knowing something is actually a very different thing! So I'd suggest you either enroll to the course and get yourself a certificate, audit the content or I guess you'll find the videos on YouTube too!
 
-What are sequential models, you may ask, Well, they are basically nets which either take as input sequential data or give out as output sequential data or both. Sequential data is a glamorous way of saying data which comes in streams or the likes, example: Machine Transaltion where I get a sentence (sequence of words) as input and I give as output a sequence of words translated in another language.
+What are sequential models? you may ask, Well, they are basically nets which either take as input sequential data or give out as output sequential data or both. Sequential data is a glamorous way of saying data which comes in streams or the likes, example: Machine Transaltion where I get a sentence (sequence of words) as input and I give as output a sequence of words translated in another language.
 
 You will learn later that we actually have many different RNN architectures like one-to-one(which isn't very intuitive), one-to-many, many-to-one, and many-to-many. It totally depends on your problem statement which one you want to build.
 

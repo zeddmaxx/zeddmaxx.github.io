@@ -36,7 +36,7 @@ __Indira Gandhi Delhi Technical University for Women, New Delhi.__
 __Mater Dei School, New Delhi.__
 
 ### Online Courses
-- Neural Networks and Deep Learning (2018) (Deeplearning.ai)
+- Deep Learning Specialization (2019) (Deeplearning.ai)
 - Social and Economic Networks: Models and Analysis (2017) (Stanford University)
 - Applied Social Network Analysis in Python (2017) (University of Michigan)
 - Introduction to Big Data (2016) (University of California, San Diego)

@@ -24,20 +24,20 @@ __Research Intern @IIIT-Delhi__
 
 ### Education
 
-`2022-Present`
+`January 2022-Present`
 __University of Ottawa__
 **Masters in Computer Science**
 
 
 `2015-2019`
-__Indira Gandhi Delhi Technical University for Women | 85.76% __
+__Indira Gandhi Delhi Technical University for Women | 85.76%__
 
 **Bachelor's in Information Technology**
 
 *Coursework* - Machine Learning and Pattern Recognition, Atrificial Intelligence, Discrete Math, Analysis and Design of Algorithms, Computer Networks, Data Structures, Theory of Computation, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented Programming, Operating System and many more.
 
 `2001-2015`
-__Mater Dei School, New Delhi | 95.4% __
+__Mater Dei School, New Delhi | 95.4%__
 
 ### Online Courses
 - Deep Learning Specialization (2019) (Deeplearning.ai)

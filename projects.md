@@ -10,7 +10,7 @@ sidebar_link: true
 A selected list of projects that I have developed:
 
 ## 1. Beautify Me
- - Designed the concept of a beauty profile of a user that gathers their social and health related data by aggregating user profiles across multiple channels in order to ensure highly personalized beauty recommendations. 
+- Designed the concept of a beauty profile of a user that gathers their social and health related data by aggregating user profiles across multiple channels in order to ensure highly personalized beauty recommendations. 
 - Fully Integrated with Google Health API and Facebook Graph API.
 ---
 

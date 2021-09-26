@@ -7,33 +7,37 @@ sidebar_link: true
 <hr>
 ### Summary
 
-Hey! I'm a senior undergrad @Indira Gandhi Delhi Technical University for Women pursuing a Bachelors in Information Technology. I'm extremely passionate about Computer Science and Machine Learning in particular. I'm constantly looking to broaden and diversify my skill set and absolutely love to learn new technologies!
-My aim in life is to continuously learn and grow and I strive to make each day count! 
-I'm also a massive Arsenal fan!
+I'm an energetic and passionate developer with 2+ years of work experience in working on e-commerce software projects using Java and Spring Boot. I love solving problems, working in teams, exploring new technologies, and delivering successful solutions.
+Oh and I'm also a big Tennis and Football enthusiast! :)
 
-### Internship Experience
+###  Experience
+
+`September 2019 - Present`
+__SDE-1  @ SAP Labs__
 
 `June-July-2018`
-__SDE Intern @ SAP Labs, Gurgaon__
+__SDE Intern @ SAP Labs__
 
 `June-Aug-2017`
-__Research Intern @IIIT-D__
-
-`June-July-2016`
-__Intern @Delhi Metro Rail Corporation__
+__Research Intern @IIIT-Delhi__
 
 
 ### Education
 
+`2022-Present`
+__University of Ottawa__
+**Masters in Computer Science**
+
+
 `2015-2019`
-__Indira Gandhi Delhi Technical University for Women, New Delhi.__
+__Indira Gandhi Delhi Technical University for Women | 85.76% __
 
 **Bachelor's in Information Technology**
 
 *Coursework* - Machine Learning and Pattern Recognition, Atrificial Intelligence, Discrete Math, Analysis and Design of Algorithms, Computer Networks, Data Structures, Theory of Computation, Compiler Design, Computer Organization & Architechture, Introduction to Object Oriented Programming, Operating System and many more.
 
 `2001-2015`
-__Mater Dei School, New Delhi.__
+__Mater Dei School, New Delhi | 95.4% __
 
 ### Online Courses
 - Deep Learning Specialization (2019) (Deeplearning.ai)
@@ -44,10 +48,13 @@ __Mater Dei School, New Delhi.__
 
 
 ### Honors & Achievements
+- Selected out of 1200 global engineers for the SAP Academy for Engineering’s 3month Multidimensional Engineer Program to be held in San Francisco. 
+- Awarded EUR500 as travel grant to present my submission at IC2S2 2019, held @ University of Amsterdam
 - Academic Achievement - Received a cash prize of INR 10,000 for achieving CGPA 10 in my senior secondary examination.
 - Served on the Executive Committee Secretary on the university IEEE student council.
 
 ### Technologies
+* Java, C++ C.
 * Python - keras, tensor-flow, scikit-learn, numpy, pandas, nltk, beautifulsoup, tweepy.
 * Web Development - HTML/CSS/JS, D3.js.
 * Strong experience with REST APIs.
